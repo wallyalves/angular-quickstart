@@ -1,6 +1,6 @@
 # Angular QuickStart - Webpack And Koa@2
 
-If you would like to take a look at the angular oficial quickstart readme page, you can find it[Here.](https://github.com/angular/quickstart/blob/master/README.md)
+If you would like to take a look at the angular oficial quickstart readme page, you can find it [Here.](https://github.com/angular/quickstart/blob/master/README.md)
 
 
 This repository focus on using Koa 2.x.x as a web framework along with webpack as a module bundler/loader. The objective is to
